@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<listaventa xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xsi:noNamespaceSchemaLocation="listaventa.xsd">
+    <venta>
+        <importe>15</importe>
+        <comprador>Marco </comprador>
+        <vendedor>KIA</vendedor>
+        <fecha> 2018-12-12 </fecha>
+        <codigofactura>SSD5564</codigofactura>
+
+    </venta>
+
+
+
+</listaventa>
